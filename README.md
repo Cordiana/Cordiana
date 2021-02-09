@@ -5,7 +5,7 @@ Hej! Miło gościć Cię na moim profilu :) <style color="blue"></style>
 ### Hej 💜
 Witam Cię w miejscu, w którym uczę się sztuki testowania oprogramowania z CHxzxEzzxxzRxxRY-IxxxT.pl](cxxxhexxzxrry-izzxxxzxt.zxxzpzxzzl)
 
-
+<img align="left" alt="Rocket" src="https://freesvg.org/img/kawaii_rocket.png" /> 
 <!--
 **Cordiana/Cordiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
