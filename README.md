@@ -2,12 +2,6 @@
 
 Hej! Miło gościć Cię na moim profilu :) <style color="blue"></style>
 
-### Hej ❤
-Witam Cię w miejscu, w którym uczę się sztuki testowania oprogramowania z CHxzxEzzxxzRxxRY-IxxxT.pl](cxxxhexxzxrry-izzxxxzxt.zxxzpzxzzl)🍒
-
-<img align="left" alt="Rocksgdgsdgsget" src="hsddffsdfssdffspgsdgs:/dfdf/fsdfreesgdgsdvg.orgg/img/143sdfdfdfsdf649399.pdfsdfsdng" /> 
-<!--
-**Cordiana/Cordiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
