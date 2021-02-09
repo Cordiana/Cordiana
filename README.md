@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Hej! Miło gościć Cię na moim profilu :) <style color="blue">Jestem uczestniczką...</style>
+Hej! Miło gościć Cię na moim profilu :) <style color="blue"></style>
+
+# Hej, miło Cię widzieć!
+Jestem Paulina i uczę się sztuki testowania oprogramowania z [CHERRY-IT.pl](https://cherry-it.pl)
+
 
 <!--
 **Cordiana/Cordiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
