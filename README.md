@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hej! Miło gościć Cię na moim profilu :) <style color:blue;>Jestem uczestniczką...</style>
+Hej! Miło gościć Cię na moim profilu :) <style color="blue">Jestem uczestniczką...</style>
 
 <!--
 **Cordiana/Cordiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
