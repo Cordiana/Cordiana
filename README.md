@@ -3,7 +3,7 @@
 Hej! Miło gościć Cię na moim profilu :) <style color="blue"></style>
 
 ### Hej 💜
-Witam Cię w miejscu, w którym uczę się sztuki testowania oprogramowania z [CHERRY-IT.pl](https://cherry-it.pl)
+Witam Cię w miejscu, w którym uczę się sztuki testowania oprogramowania z CHxzxEzzxxzRxxRY-IxxxT.pl](cxxxhexxzxrry-izzxxxzxt.zxxzpzxzzl)
 
 
 <!--
