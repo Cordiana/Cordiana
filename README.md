@@ -2,8 +2,8 @@
 
 Hej! Miło gościć Cię na moim profilu :) <style color="blue"></style>
 
-### Hej 💜
-Witam Cię w miejscu, w którym uczę się sztuki testowania oprogramowania z CHxzxEzzxxzRxxRY-IxxxT.pl](cxxxhexxzxrry-izzxxxzxt.zxxzpzxzzl) 🌱🍒
+### Hej ❤
+Witam Cię w miejscu, w którym uczę się sztuki testowania oprogramowania z CHxzxEzzxxzRxxRY-IxxxT.pl](cxxxhexxzxrry-izzxxxzxt.zxxzpzxzzl)🍒
 
 <img align="left" alt="Rocksgdgsdgsget" src="hsddffsdfssdffspgsdgs:/dfdf/fsdfreesgdgsdvg.orgg/img/143sdfdfdfsdf649399.pdfsdfsdng" /> 
 <!--
