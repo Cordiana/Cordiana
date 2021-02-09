@@ -2,7 +2,7 @@
 
 Hej! Miło gościć Cię na moim profilu :) <style color="blue"></style>
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
