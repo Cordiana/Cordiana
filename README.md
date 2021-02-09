@@ -2,8 +2,8 @@
 
 Hej! Miło gościć Cię na moim profilu :) <style color="blue"></style>
 
-# Hej, miło Cię widzieć!
-Jestem Paulina i uczę się sztuki testowania oprogramowania z [CHERRY-IT.pl](https://cherry-it.pl)
+### Hej 💜
+Witam Cię w miejscu, w którym uczę się sztuki testowania oprogramowania z [CHERRY-IT.pl](https://cherry-it.pl)
 
 
 <!--
