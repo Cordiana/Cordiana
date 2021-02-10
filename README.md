@@ -1,4 +1,9 @@
+### Hejcia ❤
+Uczę się jak testować oprogramowanie z [CHERRY-IT.pl](https://cherry-it.pl) 🍒 <br />
+i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty swojej pracy 
 
+W wolnym czasie klikam tu:
+📕 [Hyperskill.org](https://hyperskill.org/profile/69813800) ucząc się Javy
 
 
 <!--
