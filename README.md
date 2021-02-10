@@ -6,6 +6,7 @@ i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty s
 <br />
 
 📕 [Hyperskill.org](https://hyperskill.org/profile/69813800) a tutaj uczę się języka Java. <strong>Projekt w trakcie realizacji:</strong> Simple-Chatty-Bot 📌
+<br />
 📕 [freeCodeCamp.org](https://www.freecodecamp.org/kordi) tu z kolei poznaję powolutku WebDevelopment 😊
 
 Discord: 
