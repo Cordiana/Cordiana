@@ -1,6 +1,6 @@
 ### Hejcia ❤
-Uczę się jak testować oprogramowanie z [CHERRY-IT.pl](https://cherry-it.pl) 🍒
-i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty swojej pracy 😊
+Uczę się jak testować oprogramowanie z [CHERRY-IT.pl](https://cherry-it.pl) 🍒 <br />
+i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty swojej pracy 
 
 
 <!--
