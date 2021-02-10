@@ -12,7 +12,8 @@ i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty s
 📕 z [freeCodeCamp.org](https://www.freecodecamp.org) poznaję WebDevelopment <br />
 📕 z [Hyperskill.org](https://hyperskill.org) programuję w języku Java <br />
 <br />
-<img align="left" alt="React" width="23" src="https://icon-icons.com/icons2/2248/PNG/48/discord_icon_136688.png" /> tagnadiscordzie
+<br />
+<img align="left" alt="React" width="23" src="https://icon-icons.com/icons2/2248/PNG/48/discord_icon_136688.png" /> tagnadiscordzie#54385743
 
 
 <!--
