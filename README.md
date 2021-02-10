@@ -15,6 +15,10 @@ i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty s
 <br />
 <img align="left" alt="React" width="23" src="https://icon-icons.com/icons2/2248/PNG/48/discord_icon_136688.png" /> tagnadiscordzie#54385743
 
+### Klikam:
+📕 z [freeCodeCamp.org](https://www.freecodecamp.org), gdzie poznaję WebDevelopment <br />
+📕 z [Hyperskill.org](https://hyperskill.org) i programuję w języku Java <br />
+<br />
 
 <!--
 Here are some ideas to get you started:
