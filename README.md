@@ -6,7 +6,7 @@ i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty s
 <br />
 
 
-<strong>dodatkowo: </strong>
+<strong>a poza tym 😊 </strong>
 <br />
 <br />
 📕 z [freeCodeCamp.org](https://www.freecodecamp.org) poznaję WebDevelopment <br />
