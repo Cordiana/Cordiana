@@ -10,7 +10,8 @@ i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty s
 📕 [freeCodeCamp.org](https://www.freecodecamp.org/kordi) to miejsce, w którym poznaję WebDevelopment 😊 <br />
 posiadam pierwszy certyfikat: 🏆 <strong>Responsive Web Design</strong> 
 
-Discord: 
+<img src="https://icon-icons.com/icons2/2248/PNG/48/discord_icon_136688.png" alt="Ikona Discorda się nie wczytała”/>
+Kordi#1923
 
 
 <!--
