@@ -10,7 +10,8 @@ i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty s
 <br />
 <br />
 📕 [freeCodeCamp.org](https://www.freecodecamp.org) poznaję WebDevelopment 😊 <br />
-📕 [Hyperskill.org](https://hyperskill.org) programuję w języku Java <strong>Projekt w trakcie realizacji:</strong> Simple-Chatty-Bot 📌
+📕 [Hyperskill.org](https://hyperskill.org) programuję w języku Java <br />
+  <strong>Projekt w trakcie realizacji:</strong> Simple-Chatty-Bot 📌
 
 <img align="left" alt="React" width="23" src="https://icon-icons.com/icons2/2248/PNG/48/discord_icon_136688.png" /> tagnadiscordzie
 
