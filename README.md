@@ -6,7 +6,8 @@ i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty s
 <br />
 
 
-a dodatkowo: 
+<strong>a dodatkowo: </strong>
+<br />
 <br />
 📕 [freeCodeCamp.org](https://www.freecodecamp.org) poznaję WebDevelopment 😊 <br />
 📕 [Hyperskill.org](https://hyperskill.org) programuję w języku Java <strong>Projekt w trakcie realizacji:</strong> Simple-Chatty-Bot 📌
