@@ -1,11 +1,11 @@
-<!--
+
 ### Hejcia ❤
 Uczę się jak testować oprogramowanie z [CHERRY-IT.pl](https://cherry-it.pl) 🍒 <br />
 i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty swojej pracy 
 <br />
 <br />
 
-📕 [Hyperskill.org](https://hyperskill.org/profile/69813800) a tutaj uczę się języka Java.
+📕 [Hyperskill.org](https://hyperskill.org/profile/69813800) a tutaj uczę się języka Java 😊 <strong>Projekt w trakcie realizacji:</strong> Simple-Chatty-Bot 📌
 
 Discord: 
 
