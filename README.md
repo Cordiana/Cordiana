@@ -3,7 +3,7 @@ Uczę się jak testować oprogramowanie z [CHERRY-IT.pl](https://cherry-it.pl) �
 i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty swojej pracy
 
 ### Klikam:
-📕[freeCodeCamp.org](https://www.freecodecamp.org)tu poznaję WebDevelopment <br />
+📕[freeCodeCamp.org](https://www.freecodecamp.org) tu poznaję WebDevelopment <br />
 📕[Hyperskill.org](https://hyperskill.org) a tu języku Java <br />
 <br />
 <img align="left" alt="React" width="23" src="https://icon-icons.com/icons2/2248/PNG/48/discord_icon_136688.png" />Kordi#1923
