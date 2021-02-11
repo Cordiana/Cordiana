@@ -5,7 +5,7 @@ i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty s
 
 ### Klikam:
 📕[freeCodeCamp.org](https://www.freecodecamp.org/kordi), gdzie poznaję WebDevelopment <br />
-📕[Hyperskill.org](https://hyperskill.org/profile/69813800), a tu język Java
+📕[Hyperskill.org](https://hyperskill.org/profile/69813800), a tu programuję w języku Java
 
 ### <img align="center" alt="Discord" width="25" src="https://icon-icons.com/icons2/2248/PNG/48/discord_icon_136688.png" /> Kordi#1923
 
