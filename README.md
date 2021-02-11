@@ -6,7 +6,7 @@ i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty s
 📕[freeCodeCamp.org](https://www.freecodecamp.org) i poznaję WebDevelopment <br />
 📕[Hyperskill.org](https://hyperskill.org) a tu język Java 😊 <br />
 <br />
-<img align="left" alt="React" width="10" src="https://icon-icons.com/icons2/2248/PNG/48/discord_icon_136688.png" />Kordi#1923
+<img alt="Discord" width="25" src="https://icon-icons.com/icons2/2248/PNG/48/discord_icon_136688.png" />Kordi#1923
 
 <!-- ### Hejcia ❤
 Uczę się jak testować oprogramowanie z [CHERRY-IT.pl](https://cherry-it.pl) 🍒 <br />
