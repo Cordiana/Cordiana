@@ -1,7 +1,7 @@
 # Nauka-z-Hyperskill.org
 Projekty napisane podczas realizacji kursu Hyperskill.org: Preparing for the AP Computer Science (Java)
 <br />
-1. Simple Chatty Bot 📌
+1. Simple Chatty Bot
 2. Coffee Machine 
 <!--
 Here are some ideas to get you started:
